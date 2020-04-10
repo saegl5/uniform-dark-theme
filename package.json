@@ -9,6 +9,10 @@
     "categories": [
         "Themes"
     ],
+    "repository": {
+        "type": "git",
+        "url": "https://gitlab.com/saegl5/uniform-dark-theme.git"
+      },
     "contributes": {
         "themes": [
             {
