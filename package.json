@@ -27,60 +27,70 @@
             },
             {
                 "id": "editorGroupHeader.tabsBackground",
+                "description": "Color for tabsbackground of editorGroupHeader",
                 "defaults": {
                     "dark": "#1e1e1e"
                 }
             },
             {
                 "id": "sideBar.background",
+                "description": "Color for background of sideBar",
                 "defaults": {
                     "dark": "#1e1e1e"
                 }
             },
             {
                 "id": "sideBarSectionHeader.background",
+                "description": "Color for background of sideBarSectionHeader",
                 "defaults": {
                     "dark": "#1e1e1e"
                 }
             },
             {
                 "id": "statusBar.background",
+                "description": "Color for background of statusBar",
                 "defaults": {
                     "dark": "#1e1e1e"
                 }
             },
             {
                 "id": "statusBar.noFolderBackground",
+                "description": "Color for noFolderBackground of statusBar",
                 "defaults": {
                     "dark": "#1e1e1e"
                 }
             },
             {
                 "id": "statusBarItem.remoteBackground",
+                "description": "Color for remoteBackground of statusBarItem",
                 "defaults": {
                     "dark": "#1e1e1e"
                 }
             },
             {
                 "id": "tab.activeBorder",
+                "description": "Color for activeBorder of tab",
                 "defaults": {
                     "dark": "#ffffff"
                 }
             },
             {
                 "id": "tab.inactiveBackground",
+                "description": "Color for inactiveBackground of tab",
                 "defaults": {
                     "dark": "#1e1e1e"
                 }
             },
             {
                 "id": "titleBar.activeBackground",
+                "description": "Color for activeBackground of titleBar",
                 "defaults": {
                     "dark": "#1e1e1e"
                 }
             },
             {
                 "id": "titleBar.inactiveBackground",
+                "description": "Color for inactiveBackground of titleBar",
                 "defaults": {
                     "dark": "#1e1e1e"
                 }
