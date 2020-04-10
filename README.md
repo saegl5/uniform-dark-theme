@@ -1,4 +1,4 @@
-<!-- # ![Alt](./app_icon_and_logo.png "Uniform Dark+ Theme") -->
+# ![Alt](./logo.PNG "Uniform Dark+ Theme")
 <!-- work on picture, what is vscode's dark+ theme icon? -->
 
 ## Uniform Dark+ Theme
@@ -29,9 +29,12 @@ Install alternative downloads directly on phones running Android 4.2 (Jelly Bean
 
 ## Preview
 
-# ![Alt](./preview.PNG "Preview of Uniform Dark+ Theme")
+![Alt](./preview.PNG "Preview of Uniform Dark+ Theme")
 
-## Build from Source Code
+editor.fontSize: 18<br>
+editor.fontFamily: Consolas
+
+<!-- ## Build from Source Code -->
 
 <!-- Download [Android Studio](https://developer.android.com/studio/ "Click here to access the download link.") from Google, and install it.<br>
 (For help with installing the application, follow its [installation instructions](https://developer.android.com/studio/install "Click here to access the instructions.").)<p>
@@ -61,6 +64,8 @@ Open the project in Android Studio, and build the native app:<br>
 
 ## Usage
 
+Press on the cogwheel, ⚙️, and select Uniform Dark+.<br>
+Alternatively, go to File > Preferences > Color Theme, and select Uniform Dark+.
 <!-- Run the native app in a virtual device (e.g., Galaxy Nexus with API 28 x86) or on a connected device.<br>
 Or, install the APK file directly on a user's own Android phone.<p>
 
