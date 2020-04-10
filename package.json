@@ -25,7 +25,7 @@
             {
                 "id": "activityBar.background",
                 "description": "Color for background of activityBar",
-                "defaults": {
+                "defaults": {
                     "dark": "#1e1e1e"
                 }
             },
