@@ -1,4 +1,4 @@
-# ![Alt](./logo.png "Uniform Dark+ Theme")
+![Alt](./logo.png "Uniform Dark+ Theme")
 <!-- work on picture, what is vscode's dark+ theme icon? -->
 
 ## Uniform Dark+ Theme
