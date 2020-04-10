@@ -1,4 +1,4 @@
-# ![Alt](./app_icon_and_logo.png "Uniform Dark+ Theme")
+<!-- # ![Alt](./app_icon_and_logo.png "Uniform Dark+ Theme") -->
 <!-- work on picture, what is vscode's dark+ theme icon? -->
 
 ## Uniform Dark+ Theme
@@ -29,7 +29,7 @@ Install alternative downloads directly on phones running Android 4.2 (Jelly Bean
 
 ## Preview
 
-
+# ![Alt](./preview.PNG "Preview of Uniform Dark+ Theme")
 
 ## Build from Source Code
 
