@@ -1,0 +1,90 @@
+{
+    "name": "uniform-dark-theme",
+    "displayName": "Uniform Dark+ Theme",
+    "description": "Color theme that unifies Visual Studio Code's default dark theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.43.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Uniform Dark+",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Uniform Dark+-color-theme.json"
+            }
+        ],
+        "colors": [
+            {
+                "id": "activityBar.background",
+                "description": "Color for background of activityBar",
+                "defaults": {
+                    "dark": "#1e1e1e"
+                }
+            },
+            {
+                "id": "editorGroupHeader.tabsBackground",
+                "defaults": {
+                    "dark": "#1e1e1e"
+                }
+            },
+            {
+                "id": "sideBar.background",
+                "defaults": {
+                    "dark": "#1e1e1e"
+                }
+            },
+            {
+                "id": "sideBarSectionHeader.background",
+                "defaults": {
+                    "dark": "#1e1e1e"
+                }
+            },
+            {
+                "id": "statusBar.background",
+                "defaults": {
+                    "dark": "#1e1e1e"
+                }
+            },
+            {
+                "id": "statusBar.noFolderBackground",
+                "defaults": {
+                    "dark": "#1e1e1e"
+                }
+            },
+            {
+                "id": "statusBarItem.remoteBackground",
+                "defaults": {
+                    "dark": "#1e1e1e"
+                }
+            },
+            {
+                "id": "tab.activeBorder",
+                "defaults": {
+                    "dark": "#ffffff"
+                }
+            },
+            {
+                "id": "tab.inactiveBackground",
+                "defaults": {
+                    "dark": "#1e1e1e"
+                }
+            },
+            {
+                "id": "titleBar.activeBackground",
+                "defaults": {
+                    "dark": "#1e1e1e"
+                }
+            },
+            {
+                "id": "titleBar.inactiveBackground",
+                "defaults": {
+                    "dark": "#1e1e1e"
+                }
+            }
+        ]
+    }
+}
