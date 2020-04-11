@@ -90,6 +90,7 @@ For any issues, submit a new issue or discuss an existing one.<p>
 
 ## History
 
+Apr 10, 2020 &middot; Version 1.1: changed tab border color<br>
 Apr 9, 2020 &middot; Version 1: initial commit
 
 <!-- ## Known Issues -->
