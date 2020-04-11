@@ -31,8 +31,10 @@ Install alternative downloads directly on phones running Android 4.2 (Jelly Bean
 
 ![Alt](./preview.png "Preview of Uniform Dark+ Theme")
 
-editor.fontSize: 18<br>
-editor.fontFamily: Consolas
+Lighter colors of user interface elements (e.g., Custom Title Bar, Activity Bar and Status Bar) are changed to match the darker color of the Editor background.
+
+<!-- editor.fontSize: 18<br>
+editor.fontFamily: Consolas -->
 
 <!-- ## Build from Source Code -->
 
