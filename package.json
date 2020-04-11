@@ -79,6 +79,13 @@
                 }
             },
             {
+                "id": "tab.border",
+                "description": "Color for border of tab",
+                "defaults": {
+                    "dark": "#1e1e1e"
+                }
+            },
+            {
                 "id": "tab.inactiveBackground",
                 "description": "Color for inactiveBackground of tab",
                 "defaults": {
