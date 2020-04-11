@@ -26,84 +26,108 @@
                 "id": "activityBar.background",
                 "description": "Color for background of activityBar",
                 "defaults": {
-                    "dark": "#1e1e1e"
+                    "light": "activityBar.background",
+                    "dark": "#1e1e1e",
+                    "highContrast": "activityBar.background"
                 }
             },
             {
                 "id": "editorGroupHeader.tabsBackground",
                 "description": "Color for tabsbackground of editorGroupHeader",
                 "defaults": {
-                    "dark": "#1e1e1e"
+                    "light": "editorGroupHeader.tabsBackground",
+                    "dark": "#1e1e1e",
+                    "highContrast": "editorGroupHeader.tabsBackground"
                 }
             },
             {
                 "id": "sideBar.background",
                 "description": "Color for background of sideBar",
                 "defaults": {
-                    "dark": "#1e1e1e"
+                    "light": "sideBar.background",
+                    "dark": "#1e1e1e",
+                    "highContrast": "sideBar.background"
                 }
             },
             {
                 "id": "sideBarSectionHeader.background",
                 "description": "Color for background of sideBarSectionHeader",
                 "defaults": {
-                    "dark": "#1e1e1e"
+                    "light": "sideBarSectionHeader.background",
+                    "dark": "#1e1e1e",
+                    "highContrast": "sideBarSectionHeader.background"
                 }
             },
             {
                 "id": "statusBar.background",
                 "description": "Color for background of statusBar",
                 "defaults": {
-                    "dark": "#1e1e1e"
+                    "light": "statusBar.background",
+                    "dark": "#1e1e1e",
+                    "highContrast": "statusBar.background"
                 }
             },
             {
                 "id": "statusBar.noFolderBackground",
                 "description": "Color for noFolderBackground of statusBar",
                 "defaults": {
-                    "dark": "#1e1e1e"
+                    "light": "statusBar.noFolderBackground",
+                    "dark": "#1e1e1e",
+                    "highContrast": "statusBar.noFolderBackground"
                 }
             },
             {
                 "id": "statusBarItem.remoteBackground",
                 "description": "Color for remoteBackground of statusBarItem",
                 "defaults": {
-                    "dark": "#1e1e1e"
+                    "light": "statusBarItem.remoteBackground",
+                    "dark": "#1e1e1e",
+                    "highContrast": "statusBarItem.remoteBackground"
                 }
             },
             {
                 "id": "tab.activeBorder",
                 "description": "Color for activeBorder of tab",
                 "defaults": {
-                    "dark": "#ffffff"
+                    "light": "tab.activeBorder",
+                    "dark": "#ffffff",
+                    "highContrast": "tab.activeBorder"
                 }
             },
             {
                 "id": "tab.border",
                 "description": "Color for border of tab",
                 "defaults": {
-                    "dark": "#1e1e1e"
+                    "light": "tab.border",
+                    "dark": "#1e1e1e",
+                    "highContrast": "tab.border"
                 }
             },
             {
                 "id": "tab.inactiveBackground",
                 "description": "Color for inactiveBackground of tab",
                 "defaults": {
-                    "dark": "#1e1e1e"
+                    "light": "tab.inactiveBackground",
+                    "dark": "#1e1e1e",
+                    "highContrast": "tab.inactiveBackground"
                 }
             },
             {
                 "id": "titleBar.activeBackground",
                 "description": "Color for activeBackground of titleBar",
                 "defaults": {
-                    "dark": "#1e1e1e"
+                    "light": "titleBar.activeBackground",
+                    "dark": "#1e1e1e",
+                    "highContrast": "titleBar.activeBackground"
                 }
             },
             {
                 "id": "titleBar.inactiveBackground",
                 "description": "Color for inactiveBackground of titleBar",
                 "defaults": {
-                    "dark": "#1e1e1e"
+                    "light": "titleBar.inactiveBackground",
+                    "dark": "#1e1e1e",
+                    "highContrast": "titleBar.inactiveBackground"
                 }
             }
         ]
