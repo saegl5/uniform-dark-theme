@@ -66,8 +66,9 @@ Open the project in Android Studio, and build the native app:<br>
 
 ## Usage
 
-Press on the cogwheel, ⚙️, and select Uniform Dark+.<br>
-Alternatively, go to File > Preferences > Color Theme, and select Uniform Dark+.
+Press on the cogwheel, ⚙️; select Color Theme; and choose Uniform Dark+.<br>
+Alternatively, go to File > Preferences > Color Theme, and choose Uniform Dark+.
+
 <!-- Run the native app in a virtual device (e.g., Galaxy Nexus with API 28 x86) or on a connected device.<br>
 Or, install the APK file directly on a user's own Android phone.<p>
 
