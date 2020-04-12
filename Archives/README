@@ -1,0 +1,33 @@
+Install the extension from the VSIX file in Visual Studio Code.
+
+Then, press on the cogwheel, ⚙️; select Color Theme; and choose Uniform Dark+.
+Alternatively, go to File > Preferences > Color Theme, and choose Uniform Dark+.
+
+--------------------------------------------------------------------------------------------------
+How to Verify Downloads
+
+Prerequisites: gnupg (https://www.gnupg.org/)
+
+To verify the authenticity of the VSIX files in a terminal:
+$ gpg --keyserver hkps://keyserver.ubuntu.com:443 --recv-keys 0x4191f431
+$ gpg --verify SHA1SUMS.gpg SHA1SUMS
+
+To verify the integrity of the VSIX files in a terminal:
+Ubuntu: $ sha1sum -c SHA1SUMS
+macOS: $ shasum -a 1 -c SHA1SUMS
+
+Windows:
+$ ls *.zip | Get-FileHash -Algorithm SHA1
+$ Get-Content .\SHA1SUMS
+(check that hashes match)
+
+--------------------------------------------------------------------------------------------------
+
+[Notes]
+
+If one verifies authenticity and integrity using Windows Subsystem for Linux, the terminal may output "BAD signature" and "FAILED open or read."
+If so, convert checksum files to Unix format, and retry.
+$ sudo apt install dos2unix
+$ dos2unix SHA1SUMS
+$ gpg --verify SHA1SUMS.gpg SHA1SUMS
+$ sha1sum -c SHA1SUMS
