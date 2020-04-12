@@ -1,5 +1,5 @@
-![Alt](./logo.png "Uniform Dark+ Theme")
-<!-- work on picture, what is vscode's dark+ theme icon? -->
+![Alt](https://gitlab.com/saegl5/uniform-dark-theme/-/blob/master/logo.png "Uniform Dark+ Theme")
+<!-- need absolute url, since vsce can only see public GitHub repos -->
 
 ## Uniform Dark+ Theme
 
@@ -29,7 +29,7 @@ Install alternative downloads directly on phones running Android 4.2 (Jelly Bean
 
 ## Preview
 
-![Alt](./preview.png "Preview of Uniform Dark+ Theme")
+![Alt](https://gitlab.com/saegl5/uniform-dark-theme/-/blob/master/preview.png "Preview of Uniform Dark+ Theme")
 
 Lighter colors of user interface elements (e.g., Custom Title Bar, Activity Bar and Status Bar) are changed to match the darker color of the Editor background.
 
@@ -90,7 +90,7 @@ For any issues, submit a new issue or discuss an existing one.<p>
 
 ## History
 
-Apr 11, 2020 &middot; Version 1.1.1: corrected package.json<br>
+Apr 11, 2020 &middot; Version 1.1.1: corrected manifest file<br>
 Apr 10, 2020 &middot; Version 1.1: changed tab border color<br>
 Apr 9, 2020 &middot; Version 1: initial commit
 
