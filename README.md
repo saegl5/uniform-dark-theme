@@ -1,5 +1,5 @@
-![Alt](https://gitlab.com/saegl5/uniform-dark-theme/-/blob/master/logo.png "Uniform Dark+ Theme")
-<!-- ![Alt](./logo.png "Uniform Dark+ Theme") -->
+<!-- ![Alt](https://gitlab.com/saegl5/uniform-dark-theme/-/blob/master/logo.png "Uniform Dark+ Theme") -->
+![Alt](./logo.png "Uniform Dark+ Theme")
 <!-- need absolute url, since vsce can only see public GitHub repos -->
 
 ## Uniform Dark+ Theme
@@ -30,8 +30,8 @@ Install alternative downloads directly on phones running Android 4.2 (Jelly Bean
 
 ## Preview
 
-![Alt](https://gitlab.com/saegl5/uniform-dark-theme/-/blob/master/preview.png "Preview of Uniform Dark+ Theme")
-<!-- ![Alt](./preview.png "Preview of Uniform Dark+ Theme") -->
+<!-- ![Alt](https://gitlab.com/saegl5/uniform-dark-theme/-/blob/master/preview.png "Preview of Uniform Dark+ Theme") -->
+![Alt](./preview.png "Preview of Uniform Dark+ Theme")
 
 Lighter colors of user interface elements (e.g., Custom Title Bar, Activity Bar and Status Bar) are changed to match the darker color of the Editor background.
 
