@@ -43,8 +43,8 @@ vsce package --baseImagesUrl https://gitlab.com/saegl5/uniform-dark-theme/-/blob
 </pre>
 
 ## Usage
-
-Install the extension from the VSIX file in Visual Studio Code.
+Select Install to do so automatically.<br>
+Alternatively, install the extension from the VSIX file in Visual Studio Code.
 
 Press on the cogwheel, ⚙️; select Color Theme; and choose Uniform Dark+.<br>
 Alternatively, go to File > Preferences > Color Theme, and choose Uniform Dark+.
@@ -53,7 +53,8 @@ Known to work in Visual Studio Code 1.44
 
 ## Contributing
 
-Sign into GitLab, to fork the project.
+Sign into GitLab, to fork the project.<br>
+(The repository is located at [https://gitlab.com/saegl5/uniform-dark-theme](https://gitlab.com/saegl5/uniform-dark-theme).)
 
 Modify the color theme.<br>
 Under Source Control, select Commit, and Push the changes.
