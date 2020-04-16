@@ -1,3 +1,5 @@
+<font color="red"><center>---</center>GitHub repository is mirrored from GitLab. To submit pull requests or report any issues, go to [https://gitlab.com/saegl5/uniform-dark-theme](https://gitlab.com/saegl5/uniform-dark-theme).<center>---</center></font>
+
 ![Alt](./logo.png "Uniform Dark+ Theme")
 
 ## Uniform Dark+ Theme
@@ -39,17 +41,22 @@ Check that the hash matches the commit SHA.
 
 Open the project in Visual Studio Code, and build/package the extension:
 <pre>
-vsce package --baseImagesUrl https://gitlab.com/saegl5/uniform-dark-theme/-/blob/master/
+vsce package \
+--baseContentUrl https://raw.githubusercontent.com/saegl5/uniform-dark-theme/master/ \
+--baseImagesUrl https://raw.githubusercontent.com/saegl5/uniform-dark-theme/master/
 </pre>
 
+(The GitLab repository is mirrored to GitHub. Otherwise, the logo and preview image will not load in the Visual Studio Code Marketplace extension overview.)
+
 ## Usage
+
 Select Install to do so automatically.<br>
 Alternatively, install the extension from the VSIX file in Visual Studio Code.
 
 Press on the cogwheel, ⚙️; select Color Theme; and choose Uniform Dark+.<br>
 Alternatively, go to File > Preferences > Color Theme, and choose Uniform Dark+.
 
-Known to work in Visual Studio Code 1.44
+Known to work in Visual Studio Code 1.44.1
 
 ## Contributing
 
@@ -60,7 +67,7 @@ Modify the color theme.<br>
 Under Source Control, select Commit, and Push the changes.
 
 Return to the GitLab repository, and submit a new pull request.<br>
-For any issues, submit a new issue or discuss an existing one.
+To report any issues, submit a new issue or discuss an existing one.
 
 ## History
 
