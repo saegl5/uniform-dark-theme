@@ -1,4 +1,4 @@
-Install the extension from the VSIX file in Visual Studio Code.
+Install the extension from each VSIX file in Visual Studio Code.
 
 Then, press on the cogwheel, ⚙️; select Color Theme; and choose Uniform Dark+.
 Alternatively, go to File > Preferences > Color Theme, and choose Uniform Dark+.
