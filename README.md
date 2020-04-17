@@ -45,7 +45,7 @@ Open the project in Visual Studio Code, and build/package the extension:
 <pre>
 vsce package \
 --baseContentUrl https://raw.githubusercontent.com/saegl5/uniform-dark-theme/master/ \
---baseImagesUrl https://raw.githubusercontent.com/saegl5/uniform-dark-theme/master/Images/
+--baseImagesUrl https://raw.githubusercontent.com/saegl5/uniform-dark-theme/master/
 </pre>
 
 (The GitLab repository is mirrored to GitHub. Otherwise, the logo and preview image will not load in the Visual Studio Code Marketplace extension overview.)
@@ -73,6 +73,7 @@ To report any issues, submit a new issue or discuss an existing one.
 
 ## History
 
+Apr 16, 2020 &middot; Version 1.1.3: corrected images in marketplace<br>
 Apr 16, 2020 &middot; Version 1.1.2: refined the project<br>
 Apr 11, 2020 &middot; Version 1.1.1: corrected manifest file<br>
 Apr 10, 2020 &middot; Version 1.1: changed tab border color<br>
