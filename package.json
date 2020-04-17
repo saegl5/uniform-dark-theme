@@ -10,7 +10,7 @@
     "categories": [
         "Themes"
     ],
-    "icon": "./logo.png",
+    "icon": "./Images/marketplace_logo.png",
     "repository": {
         "type": "git",
         "url": "https://gitlab.com/saegl5/uniform-dark-theme.git"
