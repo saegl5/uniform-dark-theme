@@ -10,6 +10,7 @@
     "categories": [
         "Themes"
     ],
+    "icon": "./logo.png",
     "repository": {
         "type": "git",
         "url": "https://gitlab.com/saegl5/uniform-dark-theme.git"
