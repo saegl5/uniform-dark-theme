@@ -1,6 +1,6 @@
 Note: GitHub repository is mirrored from GitLab. To submit pull requests or report any issues, go to [https://gitlab.com/saegl5/uniform-dark-theme](https://gitlab.com/saegl5/uniform-dark-theme).
 
-![Alt](./logo.png "Uniform Dark+ Theme")
+![Alt](./Images/logo.png "Uniform Dark+ Theme")
 
 ## Uniform Dark+ Theme
 
@@ -8,7 +8,7 @@ Color theme that unifies Visual Studio Code's default dark theme.
 
 ## Preview
 
-![Alt](./preview.png "Preview of Uniform Dark+ Theme")
+![Alt](./Images/preview.png "Preview of Uniform Dark+ Theme")
 
 I enjoy the default dark theme, however for me it appears too <i>boxy</i>. Also, I prefer a cleaner look.
 
@@ -43,7 +43,7 @@ Open the project in Visual Studio Code, and build/package the extension:
 <pre>
 vsce package \
 --baseContentUrl https://raw.githubusercontent.com/saegl5/uniform-dark-theme/master/ \
---baseImagesUrl https://raw.githubusercontent.com/saegl5/uniform-dark-theme/master/
+--baseImagesUrl https://raw.githubusercontent.com/saegl5/uniform-dark-theme/master/Images/
 </pre>
 
 (The GitLab repository is mirrored to GitHub. Otherwise, the logo and preview image will not load in the Visual Studio Code Marketplace extension overview.)
