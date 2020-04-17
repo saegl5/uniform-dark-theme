@@ -1,4 +1,6 @@
-<font color="red"><center>---</center>GitHub repository is mirrored from GitLab. To submit pull requests or report any issues, go to [https://gitlab.com/saegl5/uniform-dark-theme](https://gitlab.com/saegl5/uniform-dark-theme).<center>---</center></font>
+<font color="red"><center>---</center><br>
+GitHub repository is mirrored from GitLab. To submit pull requests or report any issues, go to [https://gitlab.com/saegl5/uniform-dark-theme](https://gitlab.com/saegl5/uniform-dark-theme).<br>
+<center>---</center></font>
 
 ![Alt](./logo.png "Uniform Dark+ Theme")
 
