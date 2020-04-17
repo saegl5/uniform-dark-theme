@@ -2,7 +2,7 @@
     "name": "uniform-dark-theme",
     "displayName": "Uniform Dark+ Theme",
     "description": "Color theme that unifies Visual Studio Code's default dark theme.",
-    "version": "1.1.1",
+    "version": "1.1.2",
     "publisher": "saegl5",
     "engines": {
         "vscode": "^1.44.0"
@@ -10,7 +10,7 @@
     "categories": [
         "Themes"
     ],
-    "icon": "./Images/marketplace_logo.png",
+    "icon": "Images/marketplace_logo.png",
     "repository": {
         "type": "git",
         "url": "https://gitlab.com/saegl5/uniform-dark-theme.git"
