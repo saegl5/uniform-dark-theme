@@ -1,4 +1,4 @@
-Note: GitHub repository is mirrored from GitLab. To submit pull requests or report any issues, go to [https://gitlab.com/saegl5/uniform-dark-theme](https://gitlab.com/saegl5/uniform-dark-theme).
+Note: GitHub repository is mirrored from GitLab. To submit pull requests or report any issues, go to [https://gitlab.com/saegl5/uniform-dark-theme](https://gitlab.com/saegl5/uniform-dark-theme "Click here to access the repository.").
 
 ![Alt](./Images/logo.png "Uniform Dark+ Theme")
 
@@ -13,6 +13,8 @@ Color theme that unifies Visual Studio Code's default dark theme.
 I enjoy the default dark theme, however for me it appears too <i>boxy</i>. Also, I prefer a cleaner look.
 
 Lighter colors of user interface elements (e.g., Custom Title Bar, Activity Bar and Status Bar) are changed to match the darker color of the Editor background.
+
+Not included in the color theme, though&#8212;but depicted in the preview image, is my favorite editor font family: [Fira Code](https://github.com/tonsky/FiraCode "Click here to access the repository for more information.").
 
 ## Build from Source Code
 
@@ -61,10 +63,10 @@ Known to work in Visual Studio Code 1.44.1
 ## Contributing
 
 Sign into GitLab, to fork the project.<br>
-(The repository is located at [https://gitlab.com/saegl5/uniform-dark-theme](https://gitlab.com/saegl5/uniform-dark-theme).)
+(The repository is located at [https://gitlab.com/saegl5/uniform-dark-theme](https://gitlab.com/saegl5/uniform-dark-theme "Click here to access the repository.").)
 
 Modify the color theme.<br>
-Under Source Control, select Commit, and Push the changes.
+Stage, commit and push the changes.
 
 Return to the GitLab repository, and submit a new pull request.<br>
 To report any issues, submit a new issue or discuss an existing one.
