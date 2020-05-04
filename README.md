@@ -45,7 +45,8 @@ Open the project in Visual Studio Code, and build/package the extension:
 ```
 vsce package \
 --baseContentUrl https://gitlab.com/dark-themes/uniform-dark-theme/-/raw/master/ \
---baseImagesUrl https://gitlab.com/dark-themes/uniform-dark-theme/-/raw/master/
+--baseImagesUrl https://gitlab.com/dark-themes/uniform-dark-theme/-/raw/master/ \
+--out Archives/
 ```
 
 <!-- (The GitLab repository is mirrored to GitHub. Otherwise, the logo and preview image will not load in the Visual Studio Code Marketplace extension overview.) -->
