@@ -4,7 +4,7 @@ Note: GitHub repository is mirrored from GitLab. To submit pull requests or repo
 
 ## Uniform Dark+ Theme
 
-Color theme that unifies Visual Studio Code's default dark theme.
+Color theme that unifies Visual Studio Code's default dark theme, designed for Visual Studio Code.
 
 ## Preview
 
