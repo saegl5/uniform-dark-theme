@@ -72,6 +72,7 @@ To report any issues, submit a new issue or discuss an existing one.
 
 ## History
 
+May 4, 2020 &middot; Version 1.2.1: corrected manifest file \
 May 3, 2020 &middot; Version 1.2: changed color of focusBorder \
 Apr 16, 2020 &middot; Version 1.1.3: corrected images in marketplace \
 Apr 16, 2020 &middot; Version 1.1.2: refined the project \
