@@ -49,8 +49,6 @@ vsce package \
 --out Archives/
 ```
 
-<!-- (The GitLab repository is mirrored to GitHub. Otherwise, the logo and preview image will not load in the Visual Studio Code Marketplace extension overview.) -->
-
 ## Usage
 
 Select Install to do so automatically. \
