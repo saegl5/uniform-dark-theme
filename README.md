@@ -1,4 +1,4 @@
-Note: GitHub repository is mirrored from GitLab. To submit pull requests or report any issues, go to [https://gitlab.com/saegl5/uniform-dark-theme](https://gitlab.com/saegl5/uniform-dark-theme "Click here to access the repository.").
+Note: GitHub repository is mirrored from GitLab. To submit pull requests or report any issues, go to [https://gitlab.com/dark-themes/uniform-dark-theme-vscode](https://gitlab.com/dark-themes/uniform-dark-theme-vscode "Click here to access the repository.").
 
 ![Alt](./Images/logo.png "Uniform Dark+ Theme")
 
@@ -29,14 +29,14 @@ npm install -g vsce
 
 Clone the project:
 ```
-git clone https://gitlab.com/saegl5/uniform-dark-theme.git
+git clone https://gitlab.com/dark-themes/uniform-dark-theme-vscode.git
 ```
 
 (Recommended) Verify the project's authenticity: Look upward for "Verified," next to the commit SHA.
 
 (Recommended) Open a terminal, and verify the project's integrity:
 ```
-cd uniform-dark-theme
+cd uniform-dark-theme-vscode
 git show-ref --heads --hash
 ```
 Check that the hash matches the commit SHA.
@@ -44,11 +44,11 @@ Check that the hash matches the commit SHA.
 Open the project in Visual Studio Code, and build/package the extension:
 ```
 vsce package \
---baseContentUrl https://raw.githubusercontent.com/saegl5/uniform-dark-theme/master/ \
---baseImagesUrl https://raw.githubusercontent.com/saegl5/uniform-dark-theme/master/
+--baseContentUrl https://gitlab.com/dark-themes/uniform-dark-theme/-/raw/master/ \
+--baseImagesUrl https://gitlab.com/dark-themes/uniform-dark-theme/-/raw/master/
 ```
 
-(The GitLab repository is mirrored to GitHub. Otherwise, the logo and preview image will not load in the Visual Studio Code Marketplace extension overview.)
+<!-- (The GitLab repository is mirrored to GitHub. Otherwise, the logo and preview image will not load in the Visual Studio Code Marketplace extension overview.) -->
 
 ## Usage
 
@@ -63,7 +63,7 @@ Known to work in Visual Studio Code 1.44.2
 ## Contributing
 
 Sign into GitLab, to fork the project. \
-(The repository is located at [https://gitlab.com/saegl5/uniform-dark-theme](https://gitlab.com/saegl5/uniform-dark-theme "Click here to access the repository.").)
+(The repository is located at [https://gitlab.com/dark-themes/uniform-dark-theme-vscode](https://gitlab.com/dark-themes/uniform-dark-theme-vscode "Click here to access the repository.").)
 
 Modify the color theme. \
 Stage, commit and push the changes.
@@ -73,6 +73,7 @@ To report any issues, submit a new issue or discuss an existing one.
 
 ## History
 
+May 3, 2020 &middot; Version 1.2: changed color of focusBorder \
 Apr 16, 2020 &middot; Version 1.1.3: corrected images in marketplace \
 Apr 16, 2020 &middot; Version 1.1.2: refined the project \
 Apr 11, 2020 &middot; Version 1.1.1: corrected manifest file \
