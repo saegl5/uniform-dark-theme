@@ -44,7 +44,7 @@
             },
             {
                 "id": "focusBorder",
-                "description": "Color for tabsbackground of editorGroupHeader",
+                "description": "Color of focusBorder",
                 "defaults": {
                     "light": "focusBorder",
                     "dark": "#1e1e1e",
