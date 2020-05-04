@@ -2,7 +2,7 @@
     "name": "uniform-dark-theme",
     "displayName": "Uniform Dark+ Theme",
     "description": "Color theme that unifies Visual Studio Code's default dark theme, designed for Visual Studio Code.",
-    "version": "1.2.0",
+    "version": "1.2.1",
     "publisher": "saegl5",
     "engines": {
         "vscode": "^1.44.0"
