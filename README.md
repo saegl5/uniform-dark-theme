@@ -51,8 +51,8 @@ vsce package \
 
 ## Usage
 
-Select Install to do so automatically. \
-Alternatively, install the extension from the VSIX file in Visual Studio Code.
+Select Install from the Marketplace to do so automatically. \
+Alternatively, in Visual Studio Code install the extension from the VSIX file.
 
 Press on the cogwheel, ⚙️; select Color Theme; and choose Uniform Dark+. \
 Alternatively, go to File > Preferences > Color Theme, and choose Uniform Dark+.
