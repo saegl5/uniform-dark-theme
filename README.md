@@ -16,6 +16,8 @@ Lighter colors of user interface elements (e.g., Custom Title Bar, Activity Bar 
 
 Not included in the color theme, though&#8212;but depicted in the preview image, is my favorite editor font family: [Fira Code](https://github.com/tonsky/FiraCode "Click here to access the repository for more information.").
 
+(Also in the preview image, Breadcrumbs are disabled, and Editor top padding equals the font size.)
+
 ## Build from Source Code
 
 Download [Visual Studio Code](https://code.visualstudio.com/ "Click here to access the download link.") from Microsoft, and install it.
@@ -57,7 +59,7 @@ Alternatively, in Visual Studio Code install the extension from the VSIX file.
 Press on the cogwheel, ⚙️; select Color Theme; and choose Uniform Dark+. \
 Alternatively, go to File > Preferences > Color Theme, and choose Uniform Dark+.
 
-Known to work in Visual Studio Code 1.44.2
+Known to work in Visual Studio Code 1.45.1
 
 ## Contributing
 
@@ -72,6 +74,7 @@ To report any issues, submit a new issue or discuss an existing one.
 
 ## History
 
+May 23, 2020 &middot; Version 1.3: made markup italic be same color and thickness as markup bold \
 May 4, 2020 &middot; Version 1.2.1: corrected manifest file \
 May 3, 2020 &middot; Version 1.2: changed color of focusBorder \
 Apr 16, 2020 &middot; Version 1.1.3: corrected images in marketplace \
