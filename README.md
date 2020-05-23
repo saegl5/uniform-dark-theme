@@ -4,7 +4,7 @@ Note: GitHub repository is mirrored from GitLab. To submit pull requests or repo
 
 ## Uniform Dark+ Theme
 
-Color theme that unifies Visual Studio Code's default dark theme, designed for Visual Studio Code.
+Color theme that unifies Visual Studio Code's default dark theme, designed for Visual Studio Code. (I am also designing a [theme](https://gitlab.com/dark-themes/uniform-dark-theme-sn "Click here to access the repository.") for [Standard Notes](https://standardnotes.org/ "Click here for more information."), if anyone is interested.)
 
 ## Preview
 
