@@ -67,6 +67,7 @@ Sign into GitLab, to fork the project. \
 (The repository is located at [https://gitlab.com/dark-themes/uniform-dark-theme-vscode](https://gitlab.com/dark-themes/uniform-dark-theme-vscode "Click here to access the repository.").)
 
 Modify the color theme. \
+Tip! Utilize the Scope inspector: Press F1, and select `Developer: Inspect Editor Tokens and Scopes`. \
 Stage, commit and push the changes.
 
 Return to the GitLab repository, and submit a new pull request. \
