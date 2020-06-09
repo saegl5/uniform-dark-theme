@@ -462,8 +462,7 @@
 		{
 			"scope": "markup.italic",
 			"settings": {
-				"foreground": "#569CD6",
-				"fontStyle": "italic bold"
+				"fontStyle": "italic"
 			}
 		},
 		{

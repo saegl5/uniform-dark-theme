@@ -75,6 +75,7 @@ To report any issues, submit a new issue or discuss an existing one.
 
 ## History
 
+June 8, 2020 &middot; Version 1.3.1: reverted previous changes, since the changes were less relevant to color theming (see [release notes](https://gitlab.com/dark-themes/uniform-dark-theme-vscode/-/releases) for more information) \
 May 23, 2020 &middot; Version 1.3: made markup italic be same color and thickness as markup bold \
 May 4, 2020 &middot; Version 1.2.1: corrected manifest file \
 May 3, 2020 &middot; Version 1.2: changed color of focusBorder \
