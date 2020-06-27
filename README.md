@@ -46,8 +46,8 @@ Check that the hash matches the commit SHA.
 Open the project in Visual Studio Code, and build/package the extension:
 ```
 vsce package \
---baseContentUrl https://gitlab.com/dark-themes/uniform-dark-theme/-/raw/master/ \
---baseImagesUrl https://gitlab.com/dark-themes/uniform-dark-theme/-/raw/master/ \
+--baseContentUrl https://gitlab.com/dark-themes/uniform-dark-theme-vscode/-/raw/master/ \
+--baseImagesUrl https://gitlab.com/dark-themes/uniform-dark-theme-vscode/-/raw/master/ \
 --out Archives/
 ```
 
