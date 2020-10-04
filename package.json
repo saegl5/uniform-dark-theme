@@ -2,10 +2,10 @@
     "name": "uniform-dark-theme",
     "displayName": "Uniform Dark+ Theme",
     "description": "Color theme that unifies Visual Studio Code's default dark theme, designed for Visual Studio Code.",
-    "version": "1.3.1",
+    "version": "1.4.0",
     "publisher": "saegl5",
     "engines": {
-        "vscode": "^1.45.0"
+        "vscode": "^1.49.0"
     },
     "categories": [
         "Themes"
@@ -76,6 +76,15 @@
                     "light": "statusBar.background",
                     "dark": "#1e1e1e",
                     "highContrast": "statusBar.background"
+                }
+            },
+            {
+                "id": "statusBar.debuggingBackground",
+                "description": "Color for debuggingBackground of statusBar",
+                "defaults": {
+                    "light": "statusBar.debuggingBackground",
+                    "dark": "#1e1e1e",
+                    "highContrast": "statusBar.debuggingBackground"
                 }
             },
             {
