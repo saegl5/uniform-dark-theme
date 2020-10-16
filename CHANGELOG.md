@@ -1,3 +1,4 @@
+Oct 16, 2020 &middot; Version 1.5: lightened background color to match Jupyter Notebook background colors<br>
 Oct 2, 2020 &middot; Version 1.4: changed color of status bar debugging background<br>
 Jun 8, 2020 &middot; Version 1.3.1: reverted previous changes, since the changes were less relevant to color theming (see [release notes](https://gitlab.com/dark-themes/uniform-dark-theme-vscode/-/releases) for more information)<br>
 May 23, 2020 &middot; Version 1.3: made markup italic be same color and thickness as markup bold<br>
