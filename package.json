@@ -2,10 +2,10 @@
     "name": "uniform-dark-theme",
     "displayName": "Uniform Dark+ Theme",
     "description": "Color theme that unifies Visual Studio Code's default dark theme, designed for Visual Studio Code.",
-    "version": "1.4.0",
+    "version": "1.5.0",
     "publisher": "saegl5",
     "engines": {
-        "vscode": "^1.49.0"
+        "vscode": "^1.50.0"
     },
     "categories": [
         "Themes"
@@ -29,7 +29,7 @@
                 "description": "Color for background of activityBar",
                 "defaults": {
                     "light": "activityBar.background",
-                    "dark": "#1e1e1e",
+                    "dark": "#252526",
                     "highContrast": "activityBar.background"
                 }
             },
@@ -38,7 +38,7 @@
                 "description": "Color for tabsbackground of editorGroupHeader",
                 "defaults": {
                     "light": "editorGroupHeader.tabsBackground",
-                    "dark": "#1e1e1e",
+                    "dark": "#252526",
                     "highContrast": "editorGroupHeader.tabsBackground"
                 }
             },
@@ -47,7 +47,7 @@
                 "description": "Color of focusBorder",
                 "defaults": {
                     "light": "focusBorder",
-                    "dark": "#1e1e1e",
+                    "dark": "#252526",
                     "highContrast": "focusBorder"
                 }
             },
@@ -56,7 +56,7 @@
                 "description": "Color for background of sideBar",
                 "defaults": {
                     "light": "sideBar.background",
-                    "dark": "#1e1e1e",
+                    "dark": "#252526",
                     "highContrast": "sideBar.background"
                 }
             },
@@ -65,7 +65,7 @@
                 "description": "Color for background of sideBarSectionHeader",
                 "defaults": {
                     "light": "sideBarSectionHeader.background",
-                    "dark": "#1e1e1e",
+                    "dark": "#252526",
                     "highContrast": "sideBarSectionHeader.background"
                 }
             },
@@ -74,7 +74,7 @@
                 "description": "Color for background of statusBar",
                 "defaults": {
                     "light": "statusBar.background",
-                    "dark": "#1e1e1e",
+                    "dark": "#252526",
                     "highContrast": "statusBar.background"
                 }
             },
@@ -83,7 +83,7 @@
                 "description": "Color for debuggingBackground of statusBar",
                 "defaults": {
                     "light": "statusBar.debuggingBackground",
-                    "dark": "#1e1e1e",
+                    "dark": "#252526",
                     "highContrast": "statusBar.debuggingBackground"
                 }
             },
@@ -92,7 +92,7 @@
                 "description": "Color for noFolderBackground of statusBar",
                 "defaults": {
                     "light": "statusBar.noFolderBackground",
-                    "dark": "#1e1e1e",
+                    "dark": "#252526",
                     "highContrast": "statusBar.noFolderBackground"
                 }
             },
@@ -101,7 +101,7 @@
                 "description": "Color for remoteBackground of statusBarItem",
                 "defaults": {
                     "light": "statusBarItem.remoteBackground",
-                    "dark": "#1e1e1e",
+                    "dark": "#252526",
                     "highContrast": "statusBarItem.remoteBackground"
                 }
             },
@@ -119,7 +119,7 @@
                 "description": "Color for border of tab",
                 "defaults": {
                     "light": "tab.border",
-                    "dark": "#1e1e1e",
+                    "dark": "#252526",
                     "highContrast": "tab.border"
                 }
             },
@@ -128,7 +128,7 @@
                 "description": "Color for inactiveBackground of tab",
                 "defaults": {
                     "light": "tab.inactiveBackground",
-                    "dark": "#1e1e1e",
+                    "dark": "#252526",
                     "highContrast": "tab.inactiveBackground"
                 }
             },
@@ -137,7 +137,7 @@
                 "description": "Color for activeBackground of titleBar",
                 "defaults": {
                     "light": "titleBar.activeBackground",
-                    "dark": "#1e1e1e",
+                    "dark": "#252526",
                     "highContrast": "titleBar.activeBackground"
                 }
             },
@@ -146,7 +146,7 @@
                 "description": "Color for inactiveBackground of titleBar",
                 "defaults": {
                     "light": "titleBar.inactiveBackground",
-                    "dark": "#1e1e1e",
+                    "dark": "#252526",
                     "highContrast": "titleBar.inactiveBackground"
                 }
             }

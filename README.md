@@ -16,7 +16,7 @@ Lighter colors of user interface elements (e.g., Custom Title Bar, Activity Bar 
 
 Not included in the color theme, though&#8212;but depicted in the preview image, is my favorite editor font family: [Fira Code](https://github.com/tonsky/FiraCode "Click here to access the repository for more information.").
 
-(Also in the preview image, Breadcrumbs are disabled, and Editor top padding equals the font size.)
+(Also in the preview image, Editor top padding equals the font size.)
 
 ## Build from Source Code
 
@@ -75,6 +75,7 @@ To report any issues, submit a new issue or discuss an existing one.
 
 ## History
 
+Oct 16, 2020 &middot; Version 1.5: lightened background color to match Jupyter Notebook background colors \
 Oct 2, 2020 &middot; Version 1.4: changed color of status bar debugging background \
 Jun 8, 2020 &middot; Version 1.3.1: reverted previous changes, since the changes were less relevant to color theming (see [release notes](https://gitlab.com/dark-themes/uniform-dark-theme-vscode/-/releases) for more information) \
 May 23, 2020 &middot; Version 1.3: made markup italic be same color and thickness as markup bold \
