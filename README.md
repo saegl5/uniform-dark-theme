@@ -16,7 +16,7 @@ Lighter colors of user interface elements (e.g., Custom Title Bar, Activity Bar 
 
 Not included in the color theme, though&#8212;but depicted in the preview image, is my favorite editor font family: [Fira Code](https://github.com/tonsky/FiraCode "Click here to access the repository for more information.").
 
-(Also in the preview image, Editor top padding equals the font size.)
+(Also in the preview image, Editor top padding equals the font size, and Open Editors is closed.)
 
 ## Build from Source Code
 
