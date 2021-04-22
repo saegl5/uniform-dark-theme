@@ -1,3 +1,5 @@
+# Archived project! Repository and other project resources are read-only
+
 Note: GitHub repository is mirrored from GitLab. To submit pull requests or report any issues, go to [https://gitlab.com/dark-themes/uniform-dark-theme-vscode](https://gitlab.com/dark-themes/uniform-dark-theme-vscode "Click here to access the repository.").
 
 ![Alt](./Images/logo.png "Uniform Dark+ Theme")
